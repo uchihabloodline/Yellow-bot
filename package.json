@@ -1,0 +1,17 @@
+{
+  "name": "conversational_bot_yellow_messanger",
+  "version": "1.0.0",
+  "description": "A Conversational bot for Yellow messanger assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shivam Pandey",
+  "license": "ISC",
+  "dependencies": {
+    "actions-on-google": "^2.13.0",
+    "dialogflow-fulfillment": "^0.6.1",
+    "express": "^4.17.1",
+    "ngrok": "^3.4.0"
+  }
+}
